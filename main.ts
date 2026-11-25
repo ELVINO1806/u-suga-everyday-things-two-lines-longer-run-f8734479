@@ -8,8 +8,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const line1 = 'A washing machine is a whirlpool that eats dirty clothes and spits them out dizzy but clean.';
-const line2 = 'It maps the spinning water, but leaves out that real whirlpools do not give your socks back.';
+const line1 = 'An escalator is a staircase that walks for you while you just stand still.';
+const line2 = 'It maps the steps carrying you upward, but leaves out that the steps disappear under the floor at the top and loop back underneath.';
 
 const entry = line1 + '\n' + line2;
 
