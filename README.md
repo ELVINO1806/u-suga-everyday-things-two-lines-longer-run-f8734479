@@ -8,10 +8,10 @@ Entry for the make.fun text competition **"Everyday Things, Two Lines, Longer Ru
 
 ## The entry
 
-> A washing machine is a whirlpool that eats dirty clothes and spits them out dizzy but clean.
-> It maps the spinning water, but leaves out that real whirlpools do not give your socks back.
+> An escalator is a staircase that walks for you while you just stand still.
+> It maps the steps carrying you upward, but leaves out that the steps disappear under the floor at the top and loop back underneath.
 
-Two lines, 185 characters, no trailing newline. Line 1 explains one everyday thing — a washing machine — to a 10-year-old in one living sentence built on an analogy (a whirlpool). Line 2 is one sentence on why the analogy works: it maps the spinning water, but leaves out that real whirlpools do not give your socks back.
+Two lines, 206 characters, no trailing newline. Line 1 explains one everyday thing — an escalator — to a 10-year-old in one living sentence built on an analogy (a staircase that walks). Line 2 is one sentence on why the analogy works: it maps the steps carrying you upward, but leaves out that the steps disappear under the floor at the top and loop back underneath.
 
 ## Competition
 
